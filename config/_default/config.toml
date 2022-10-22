@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "/"
+baseurl = "blog.fonthap.live"
 languageCode = "en-us"
 paginate = 10
 title = "Blog Fonthap"
